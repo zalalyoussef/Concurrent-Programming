@@ -1,0 +1,30 @@
+atomic ? what does it do ? what is it ? 
+
+why do you need cuda analysis.... ?!?!?
+
+using cuda malloc or ... : question : for cudamalloc you passing addressing, and other function
+not passing the address symbol ? why is that ?
+
+question : where you call the global function, in your program number of blocks and number
+of grids ? how many threads are running in total ?  and what is the difference between them ? block and grid ?
+
+
+using cuda free, what happends if dont use it ? 
+
+if we remove the cude free, and put the whole code in a loop,
+what happens in this situation ????!
+
+
+if you use cudamalloc and you dont use cuda free it will do like a problem..
+
+Can you explain what Atmoic add does in general
+
+what is the diffrence between device and global functiion
+
+
+cuda device to device shi hek why u use it in your progrsm ????
+
+
+you use mutex, but for second lab we did not use it, so what is the defining difeerence between lab1 and lab2?
+
+

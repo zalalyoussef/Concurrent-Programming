@@ -1,0 +1,16 @@
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\bin\Debug\net6.0\Concurrent lab-1.exe
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\bin\Debug\net6.0\Employees.txt
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\bin\Debug\net6.0\Concurrent lab-1.deps.json
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\bin\Debug\net6.0\Concurrent lab-1.runtimeconfig.json
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\bin\Debug\net6.0\Concurrent lab-1.dll
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\bin\Debug\net6.0\Concurrent lab-1.pdb
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\Concurrent lab-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\Concurrent lab-1.AssemblyInfoInputs.cache
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\Concurrent lab-1.AssemblyInfo.cs
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\Concurrent lab-1.csproj.CoreCompileInputs.cache
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\Concurrent lab-1.dll
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\refint\Concurrent lab-1.dll
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\Concurrent lab-1.pdb
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\Concurrent lab-1.genruntimeconfig.cache
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\obj\Debug\net6.0\ref\Concurrent lab-1.dll
+D:\semester5\concurrent lab1\Concurrent lab-1\Concurrent lab-1\bin\Debug\net6.0\Results.txt
